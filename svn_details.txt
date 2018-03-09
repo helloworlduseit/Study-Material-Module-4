@@ -1,0 +1,36 @@
+Group 1:
+svn://ndafile/ELTP_2017/JEE_Lot/13DecJEEbatch/G1
+
+username:  user1 to user7
+password: same as username
+
+
+Group 2:
+svn://ndafile/ELTP_2017/JEE_Lot/13DecJEEbatch/G2
+
+username:  user1 to user7
+password: same as username
+
+Group 3:
+svn://ndafile/ELTP_2017/JEE_Lot/13DecJEEbatch/G3
+
+username:  user1 to user7
+password: same as username
+
+Group 4:
+svn://ndafile/ELTP_2017/JEE_Lot/13DecJEEbatch/G4
+
+username:  user1 to user7
+password: same as username
+
+Group 5:
+svn://ndafile/ELTP_2017/JEE_Lot/13DecJEEbatch/G5
+
+username:  user1 to user7
+password: same as username
+
+Group 6:
+svn://ndafile/ELTP_2017/JEE_Lot/13DecJEEbatch/G6
+
+username:  user1 to user7
+password: same as username
